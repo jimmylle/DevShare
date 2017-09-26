@@ -1,8 +1,10 @@
 import React from 'react';
+import { Button } from 'react-toolbox/lib/button';
+
 
 class Homepage extends React.Component {
   render() {
-    return (<h1>This is the homepage.</h1>);
+    return (<Button label='This is the homepage.' />);
   }
 }
 
