@@ -1,0 +1,11 @@
+.horizontal {
+  background-color: #30353e;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.neutral:not([disabled]).flat,
+.neutral:not([disabled]).toggle {
+  color: white;
+}
+
