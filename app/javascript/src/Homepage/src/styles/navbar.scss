@@ -1,11 +1,12 @@
+@import "app/javascript/src/shared/variables/colors";
+
 .horizontal {
-  background-color: #30353e;
+  background-color: $navbar-background;
   display: flex;
   justify-content: flex-end;
 }
 
 .neutral:not([disabled]).flat,
 .neutral:not([disabled]).toggle {
-  color: white;
+  color: $color-white;
 }
-
