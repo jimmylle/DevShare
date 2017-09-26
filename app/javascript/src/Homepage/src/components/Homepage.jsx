@@ -1,10 +1,9 @@
 import React from 'react';
-import { Button } from 'react-toolbox/lib/button';
-
+import Navbar from './Navbar';
 
 class Homepage extends React.Component {
   render() {
-    return (<Button label='This is the homepage.' />);
+    return (<Navbar />);
   }
 }
 
