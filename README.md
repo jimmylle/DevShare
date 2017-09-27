@@ -1,24 +1,10 @@
-# README
+# What is this?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a little side project that I wanted to try to learn some cool things like:
+- ruby on rails
+- react
+- WebRTC stuff like sockets, etc.
+- Trying integration tools like houndci, code climate, continuous integration, etc.
+- CSS modules
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+How much I work on this depends really on how busy I am.
