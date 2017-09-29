@@ -16,3 +16,7 @@ How much I work on this depends really on how busy I am.
 would have been a better choice?
 - For now I'll work with rails and get it working with it and then maybe do it again
 with nodejs or switch to nodejs if it's too dificult on rails.
+
+### 9/28/2017
+- I probably won't be working on this too much since I need to study for career fair in a few weeks.
+Hopefully I'll be able to work on it in november or so.
